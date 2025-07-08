@@ -52,7 +52,7 @@
 </p>
 
 <h1 align="center"Hi 👋, I'm Arnab Chakraborty</h1>
-<h3 align="center"><strong>𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓐𝓘-𝓜𝓛 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪 </strong></h3>
+<h3 align="center"><strong>𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓐𝓘-𝓜𝓛 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪 🇮🇳</strong></h3>
 
 <div align="center">
   <span style="display: inline-block; padding: 12px 25px; border: 2px solid #00FF00; border-radius: 10px; background-color: #000000; font-size: 20px; font-weight: bold; font-family: 'Courier New', Courier, monospace; color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">
@@ -75,7 +75,7 @@
 
 - 📫 How to reach me 👉**arnabchakraborty.sam@gmail.com**
 
-- 📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨. 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 📁𝙍𝙚𝙨𝙪𝙢𝙚 [https://drive.google.com/file/d/1o12-QA1pd6u5bj0RMEiFt9SmD2eKvnN3/view?usp=drivesdk](https://drive.google.com/file/d/1o12-QA1pd6u5bj0RMEiFt9SmD2eKvnN3/view?usp=drivesdk)
+- 📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨. 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 📁𝙍𝙚𝙨𝙪𝙢𝙚 [https://drive.google.com/drive/folders/1nsBQCJqKz6UDvB_EPEJO8r5UYEnjFvaC](https://drive.google.com/drive/folders/1nsBQCJqKz6UDvB_EPEJO8r5UYEnjFvaC)
 
 - ⚡𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 : **I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄**
 
