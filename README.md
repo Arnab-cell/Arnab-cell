@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <!-- Typing Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Srijan+Roy;AI-ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%F0%9F%92%BB;Learning+%F0%9F%93%9A%2C+Exploring+%F0%9F%94%8E%2C+Building+%F0%9F%9B%A0%EF%B8%8F;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Arnab+Chakraborty;AI-ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%F0%9F%92%BB;Learning+%F0%9F%93%9A%2C+Exploring+%F0%9F%94%8E%2C+Building+%F0%9F%9B%A0%EF%B8%8F;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Header" />
 </h1>
 
 
