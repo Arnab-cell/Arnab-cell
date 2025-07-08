@@ -75,7 +75,7 @@
 
 - 📫 How to reach me 👉**arnabchakraborty.sam@gmail.com**
 
-- 📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨. 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 📁𝙍𝙚𝙨𝙪𝙢𝙚 [https://drive.google.com/file/d/1o12-QA1pd6u5bj0RMEiFt9SmD2eKvnN3/view?usp=drivesdk](https://drive.google.com/file/d/1o12-QA1pd6u5bj0RMEiFt9SmD2eKvnN3/view?usp=drivesdk))
+- 📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨. 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 📁𝙍𝙚𝙨𝙪𝙢𝙚 [https://drive.google.com/file/d/1o12-QA1pd6u5bj0RMEiFt9SmD2eKvnN3/view?usp=drivesdk](https://drive.google.com/file/d/1o12-QA1pd6u5bj0RMEiFt9SmD2eKvnN3/view?usp=drivesdk)
 
 - ⚡𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 : **I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄**
 
